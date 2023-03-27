@@ -1,12 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/uis/account_page.dart';
-import 'package:flutter_application_1/uis/home.dart';
-import 'package:flutter_application_1/uis/home1.dart';
+
 import 'package:flutter_application_1/uis/login.dart';
 import 'package:device_preview/device_preview.dart';
-import 'package:flutter_application_1/uis/login_page.dart';
-import 'package:flutter_application_1/uis/register.dart';
-import 'package:flutter_application_1/uis/splash_page.dart';
+
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
